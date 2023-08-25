@@ -1,0 +1,16 @@
+PRESIDENT,FIRST LADY,VICE PRESIDENT,id,ini,end,given,surname,party
+Dwight D. Eisenhower,Mamie Doud Eisenhower,Richard M. Nixon,Table 15,1953-01-01,1961-01-01 00:00:00,Dwight D.,Eisenhower,Republican
+John F. Kennedy,Jacqueline Kennedy,Lyndon B. Johnson,Table 15,1961-01-01,1963-01-01 00:00:00,John F.,Kennedy,Democrat
+Lyndon B. Johnson,Lady Bird Johnson,office vacant,Table 15,1963-01-01,1965-01-01 00:00:00,Lyndon B.,Johnson,Democrat
+Lyndon B. Johnson,Lady Bird Johnson,Hubert H. Humphrey,Table 15,1965-01-01,1969-01-01 00:00:00,Lyndon B.,Johnson,Democrat
+Richard M. Nixon,Pat Nixon,Spiro T. Agnew,Table 15,1969-01-01,1973-01-01 00:00:00,Richard M.,Nixon,Republican
+Richard M. Nixon,Pat Nixon,Gerald R. Ford,Table 15,1973-01-01,1974-01-01 00:00:00,Richard M.,Nixon,Republican
+Gerald R. Ford,Betty Ford,Nelson Rockefeller,Table 15,1974-01-01,1977-01-01 00:00:00,Gerald R.,Ford,Republican
+Jimmy Carter,Rosalynn Carter,Walter F. Mondale,Table 15,1977-01-01,1981-01-01 00:00:00,Jimmy,Carter,Democrat
+Ronald Reagan,Nancy Reagan,George Bush,Table 15,1981-01-01,1989-01-01 00:00:00,Ronald,Reagan,Republican
+George Bush,Barbara Bush,Dan Quayle,Table 15,1989-01-01,1993-01-01 00:00:00,George,Bush,Republican
+Bill Clinton,Hillary Rodham Clinton,Albert Gore,Table 15,1993-01-01,2001-01-01 00:00:00,Bill,Clinton,Democrat
+George W. Bush,Laura Bush,Richard Cheney,Table 15,2001-01-01,2009-01-01 00:00:00,George W.,Bush,Republican
+Barack Obama,Michelle Obama,Joseph R. Biden,Table 15,2009-01-01,2017-01-01 00:00:00,Barack,Obama,Democrat
+Donald J. Trump,Melania Trump,Mike Pence,Table 15,2017-01-01,2021-01-01 00:00:00,Donald J.,Trump,Republican
+Joseph R. Biden,Jill Biden,Kamala Harris,Table 15,2021-01-01,2022-01-01 00:00:00,Joseph R.,Biden,Democrat
