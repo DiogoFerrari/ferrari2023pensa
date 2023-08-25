@@ -50,7 +50,7 @@ Then, run the scripts in the folder `model`.
 
 1. Donwload the replication files or clone the repository by running the following command in your terminal:
 ``` shell
-git clone https://github.com/DiogoFerrari/**`this repo`**
+git clone https://github.com/DiogoFerrari/ferrari2023pensa
 ```
 2. Run the scripts in the folder `model`
 
